@@ -15,7 +15,4 @@ Biometria facial para validação de documento
 ## RF04
 Cadastro de bancos para insumo de dados para a proposta
 
-## RF05
-Cadastro de convênios para insumo de dados para a proposta
-
 # Requisitos Não Funcionais
