@@ -13,6 +13,9 @@ Integrar com bancos para a carga de tabelas e envio de propostas
 Biometria facial para validação de documento
 
 ## RF04
+Acessar via usuário e senha (Admin) ou por link pelo app da Carteira de Trabalho
+
+## RF05
 Cadastro de bancos para insumo de dados para a proposta
 
 # Requisitos Não Funcionais
