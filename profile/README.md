@@ -10,12 +10,12 @@ Integrar com Carteira de Trabalho e Whatsapp para a realização dos empréstimo
 Integrar com bancos para a carga de tabelas e envio de propostas
 
 ## RF03
-Cadastro de bancos para insumo de dados para a proposta
+Biometria facial para validação de documento
 
 ## RF04
-Cadastro de convênios para insumo de dados para a proposta
+Cadastro de bancos para insumo de dados para a proposta
 
 ## RF05
-Biometria facial para validação de documento
+Cadastro de convênios para insumo de dados para a proposta
 
 # Requisitos Não Funcionais
